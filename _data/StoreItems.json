@@ -722,7 +722,7 @@
 	},
 	{
 		"abr": "duster",
-		"price": -10,
+		"price": 5000,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
 	},
@@ -1826,7 +1826,7 @@
 	},
 	{
 		"abr": "parka",
-		"price": 5000,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_Parka"
 	},
@@ -5708,7 +5708,7 @@
 	},
 	{
 		"abr": "tyrannosaurusrex",
-		"price": 10000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TyrannosaurusRex"
 	},
